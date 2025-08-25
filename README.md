@@ -64,7 +64,6 @@ frontend/
       utils/
     index.html
     package.json
-
 ```
 
 ## Getting Started
@@ -84,7 +83,7 @@ frontend/
 3. Start the backend server:
    ```bash
    npm run dev
-&nbsp;&nbsp;&nbsp;The backend runs on http://localhost:8000 by default.
+&nbsp;&nbsp;&nbsp;&nbsp;The backend runs on http://localhost:8000 by default.
 
 ### Frontend Setup
 1. Install dependencies:
@@ -95,7 +94,7 @@ frontend/
 2. Start the frontend:
    ```bash
    npm run dev
-&nbsp;&nbsp;&nbsp;The frontend runs on http://localhost:5173 by default.
+&nbsp;&nbsp;&nbsp;&nbsp;The frontend runs on http://localhost:5173 by default.
 
 
 ## Usage
@@ -116,3 +115,12 @@ frontend/
 
  - Profile Image:
 &nbsp;Upload a profile picture during sign-up.
+
+## Environment Variables
+Backend .env example:
+```bash
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+PORT=8000
+CLIENT_URL=http://localhost:5173
+```
