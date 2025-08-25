@@ -1,1 +1,2 @@
 ### MoneyMap
+SpendWise is a comprehensive MERN-based web app designed to help users manage their personal finances effortlessly. It allows you to track income and expenses, analyze financial trends through interactive dashboards, and maintain control over your budget. The platform includes secure user authentication, export to Excel, and a sleek, responsive interface for a smooth experience across devices.
