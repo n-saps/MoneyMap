@@ -84,7 +84,7 @@ frontend/
 3. Start the backend server:
    ```bash
    npm run dev
-The backend runs on http://localhost:8000 by default.
+&nbsp;&nbsp;&nbsp;The backend runs on http://localhost:8000 by default.
 
 ### Frontend Setup
 1. Install dependencies:
@@ -95,7 +95,7 @@ The backend runs on http://localhost:8000 by default.
 2. Start the frontend:
    ```bash
    npm run dev
-The frontend runs on http://localhost:5173 by default.
+&nbsp;&nbsp;&nbsp;The frontend runs on http://localhost:5173 by default.
 
 
 ## Usage
