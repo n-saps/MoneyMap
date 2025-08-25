@@ -33,7 +33,7 @@ MoneyMap is a comprehensive MERN-based web app designed to help users manage the
    - Sidebar menu for easy access to Dashboard, Income, Expenses, and Logout.
 
 10. Quick Delete
-   - Hover over income or expense cards to reveal a one-click delete option.
+    - Hover over income or expense cards to reveal a one-click delete option.
 
 ## Tech Stack
  - Frontend: React, Vite, Tailwind CSS, Recharts, Axios, React Router, Emoji Picker
