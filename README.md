@@ -51,7 +51,6 @@ backend/
   models/
   routes/
   uploads/
-  .env.example
   server.js
 
 frontend/
